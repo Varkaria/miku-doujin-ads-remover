@@ -7,3 +7,5 @@ Browser with Tempermonkey plugin
 วิธีการใช้
 โหลด mikudoujin.js มา
 เปิดไฟล์แล้วกด Install ได้เลย
+
+เดี๋ยวจะทำเว็ปอื่นเรื่อยๆนะครับถ้ามีเวลา 5555
